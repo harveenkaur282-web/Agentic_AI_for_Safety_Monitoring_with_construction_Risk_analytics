@@ -4,3 +4,5 @@
 
 3. Research paper: https://www.sciencedirect.com/science/article/pii/S1474034626003733
 to integrate domain specific adaptations into construction safety
+used knowledge graphs-?
+lms, and sematic web techniques 
